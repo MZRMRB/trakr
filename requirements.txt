@@ -1,1 +1,15 @@
-psycopg2-binary 
+fastapi
+uvicorn
+psycopg
+psycopg_pool
+psycopg2-binary
+python-jose
+pydantic
+pydantic-settings
+slowapi
+prometheus_client
+python-dotenv
+python-multipart
+openpyxl
+redis
+requests
